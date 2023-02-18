@@ -32,4 +32,3 @@ list.style.flexWrap = "column-reverse";
 list.style.listStyle = "none";
 list.style.gap = "10px";
 list.style.justifyContent = "center";
-
